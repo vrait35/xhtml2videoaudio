@@ -1,0 +1,57 @@
+.img,.gl,.us,.gal,.onas,.kon{
+  display: inline-block;
+  padding-right: 10px;
+}
+.a1{
+  background-color: #6395ec;
+  height: auto;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.a1 img{
+  height: 30px;
+  margin-right: 10px;
+}
+.a1 a{
+  color:white;
+  text-decoration: none;
+}
+.gl a{
+  text-decoration: none;
+  color:red;
+  text-decoration: none;
+}
+.text{
+  margin: 10px;
+  color:white;
+}
+.t1{
+  width: 280px;
+  background-color: green;
+  border-radius: 10px;
+  border-color: black;
+  border:1px solid black;
+  padding:10px;
+  color:white;
+}
+.t2{
+  width: 280px;
+  background-color: red;
+    border-radius: 10px;
+    padding:10px;
+      border:1px solid black;
+    font-style: italic;
+}
+.t3{
+  width: 280px;
+  background-color: #7effd4;
+    border-radius: 10px;
+    padding:10px;
+      border:1px solid black;
+      text-decoration: underline;
+}
+.t1,.t2,.t3{
+  display: inline-block;
+}

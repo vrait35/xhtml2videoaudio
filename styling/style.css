@@ -1,0 +1,42 @@
+video{
+  border:5px solid darkred;
+  border-radius: 50%;
+}
+.v1,.v2{
+  display:inline-block;
+}
+.v1{
+  margin-right: 30px;
+}
+.mama{
+  text-align: center;
+}
+.v2 video{
+  border: 5px dashed aquamarine;
+}
+button{
+  background-color: red;
+  color:white;
+  border:2px solid  darkorange;
+  border-radius: 20px;
+  width: 200px;
+  height: 50px;
+  font-size: 22px;
+  text-decoration: underline;
+  padding:20px 100px;
+}
+.btn{
+  background:red;
+  width:250px;
+  border-radius: 10px;
+  border: 5px solid darkred;
+  padding:10px 0px;
+}
+.btn a{
+  padding :15px 50px;
+  font-family: 'Segoe UI',sans-serif;
+  text-decoration: none;;
+  color:white;
+  font-size: 22px;
+  text-transform: uppercase;
+}
